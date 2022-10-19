@@ -1,0 +1,139 @@
+<mjml>
+   <mj-head>
+
+      <mj-title></mj-title>
+      <mj-attributes>
+         <mj-all font-family="Catamaran,Helvetica, sanserif"  padding="0"/>
+
+       <mj-class name="header-h1-text" font-size="23px" color="#333333" align="left" line-height="39px"/>
+         <mj-class name="column-image" />
+         <mj-class name="column-text-header" font-size="12px" color="#ef5602" align="center"  padding-top="20px" padding-bottom="10px"/>
+         <mj-class name="column-text" font-size="19px" color="#111111" align="center" line-height="26px"/>
+      </mj-attributes>
+   </mj-head>
+
+      
+      
+
+   <mj-body background-color="#f2f2f2">
+      <!-- Header -->
+      <mj-section padding="10px">
+         <mj-column padding="20px" vertical-align="middle">
+            <mj-text mj-class ="header-h1-text" padding-right="10px" padding-left="10px">
+               <h3> Save up to $200 on Mac with education pricing.</h3>
+            </mj-text>
+            <mj-text font-size="16px" color="#333333" align="left" line-height="24px">
+               Get Beats Studio3 Wireless headphones on us, and discounts on even more.
+            </mj-text>
+         </mj-column>
+         <mj-column vertical-align="middle" padding="20px"> 
+            <mj-image src="https://i.ibb.co/9pHsh9R/headphone.png" alt="Headphone" width="300px" align="center" />
+         </mj-column>
+      </mj-section>
+
+      <!-- First-section-->
+         <mj-section padding-bottom="20px" padding-right="15px" padding-left="15px">
+            <mj-column background-color="white" padding="20px" border-radius="10px" width="270px">
+               <mj-image src="https://i.ibb.co/Qp8XGhx/apple-desktop-dark-screen.png" alt="Laptop" padding-top="20px" padding-left="5px" padding-right="5px" width="250px" height="150px"/>
+               <mj-text mj-class="column-text-header" >
+                  NEW
+               </mj-text>
+               <mj-text mj-class="column-text" >
+                 <a href="#" css-class="anchor-text"  style="text-decoration:none; color:#ef5602;"> MacBook Air</a> <br>
+                  From $999
+               </mj-text>
+            </mj-column>
+            <mj-column width="20px">
+               <mj-table>
+                  <tr>
+                  <td width="0px" height="20px"></td>
+                  </tr>
+               </mj-table>
+            </mj-column>
+            <mj-column background-color="white" padding="20px" border-radius="10px" width="270px">
+               <mj-image src="https://i.ibb.co/d64XTdC/apple-desktop.png" alt="Laptop" padding-top="20px" padding-left="5px" padding-right="5px"  width="250px" height="150px"/>
+               <mj-text mj-class="column-text-header" >
+                  NEW
+               </mj-text>
+               <mj-text mj-class="column-text" >
+                 <a href="#" css-class="anchor-text"  style="text-decoration:none; color:#ef5602;"> 13-inch MacBook Pro</a> <br>
+                  From $1199
+               </mj-text>
+            </mj-column>
+         </mj-section>
+
+         <!-- Second-column -->
+
+         <mj-section padding-bottom="20px" padding-right="15px" padding-left="15px">
+            <mj-column background-color="white" padding="20px" border-radius="10px" width="270px">
+               <mj-image src="https://i.ibb.co/C589HCk/laptop.png" alt="Laptop" padding-top="20px" padding-left="5px" padding-right="5px"  width="250px" height="150px" />
+               <mj-text mj-class="column-text-header" >
+                  NEW
+               </mj-text>
+               <mj-text mj-class="column-text" >
+                 <a href="#" css-class="anchor-text"  style="text-decoration:none; color:#ef5602;"> 15-inch MacBook Pro</a> <br>
+                  From $999
+               </mj-text>
+            </mj-column>
+            <mj-column width="20px">
+               <mj-table>
+                  <tr>
+                  <td width="0px" height="20px"></td>
+                  </tr>
+               </mj-table>
+            </mj-column>
+            <mj-column background-color="white" padding="20px" border-radius="10px" width="270px">
+               <mj-image src="https://i.ibb.co/RS1VWyx/laptop-globe-pic.png" alt="Laptop" padding-top="20px" padding-left="5px" padding-right="5px"  width="250px" height="150px"/>
+                              <mj-text mj-class="column-text-header" >
+                  NEW
+               </mj-text>
+               <mj-text mj-class="column-text" >
+                 <a href="#" css-class="anchor-text"  style="text-decoration:none; color:#ef5602;"> iMac</a> <br>
+                  From $1099
+               </mj-text>
+            </mj-column>
+         </mj-section>
+
+         <!-- column-three -->
+         <mj-section padding-top="10px" padding-bottom="20px" padding-left="15px" padding-right="15px">
+            <mj-column width="270px" background-color="white" padding="20px" border-radius="10px">
+               <mj-image src="https://i.ibb.co/mShJR6G/large-screen-tablet.png" alt=""   width="250px" height="200px"/>
+                              <mj-text mj-class="column-text-header"  >
+                  NEW
+               </mj-text>
+               <mj-text mj-class="column-text" >
+                 <a href="#" css-class="anchor-text"  style="text-decoration:none; color:#ef5602;"> iMac Pro</a> <br>
+                  From $999
+               </mj-text>
+            </mj-column>
+         </mj-section>
+
+         <!-- Parting text -->
+         <mj-section padding="20px">
+            <mj-column>
+               <mj-text mj-class="footer-text" padding-bottom="20px" align="center" font-size="26px" padding-left="10px" padding-right="10px">
+                  Turn the computer you have into the Mac you want.
+               </mj-text>
+               <mj-text line-height="22px" align="center" padding-right="10px"padding-left="10px" font-size="19px" line-height="22px">
+         With Apple Trade In, give us your eligible computer for credit towards your next Mac. If your computer isn't eligible for credit, we'll recycle it for free.
+               </mj-text>
+            </mj-column>
+         </mj-section>
+
+         <!-- Footer -->
+        <mj-section padding-top="20px" padding-bottom="20px">
+         <mj-column width="600px">
+            <mj-divider border-width="1px" border-style="solid" border-color="grey"/>
+         </mj-column>
+       </mj-section>
+
+         <mj-section padding="20px">
+            <mj-column>
+               <mj-text align="center">
+                  Copyright © 2019 Apple Inc. All rights reserved.
+               </mj-text>
+            </mj-column>
+         </mj-section>
+
+   </mj-body>
+</mjml>
